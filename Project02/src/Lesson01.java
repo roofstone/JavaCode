@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Main {
+public class Lesson01 {
     public static void main(String[] args){
         // This is a comment line
         /*
